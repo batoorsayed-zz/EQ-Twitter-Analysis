@@ -11,7 +11,8 @@ Step 4 : Get your Twitter keys and secrets and tokens and all that fun stuff, th
 
 Step 5 : Spice up your search queries as your heart wishes.
 
-         n is the number of samples you will be pulling. Beware, you can only pull 18K at a time, then you will have to wait 15 mins. Don't worry, retryOnRateLimit will do that for you, just take a quick walk, or nap.
+         n is the number of samples you will be pulling. Beware, you can only pull 18K at a time, then you will have to wait 
+         15 mins. Don't worry, retryOnRateLimit will do that for you, just take a quick walk, or nap.
          
          lang is the language, change it if you must. Delete it if you want to get all the languages.
          
