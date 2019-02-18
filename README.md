@@ -1,4 +1,8 @@
 # EQ-Twitter-Analysis
+Twitter Sentiment Analsis for Emotional Intelligence. Utilizing mutliple text analytics tools. 
+
+# Analysis
+
 FYI this is a quick analysis done during 'bored' time over couple cups of tea. It could be improved upon. If you do, let me know!
 
 Step 1 : Fire up your one and only RStudio.
