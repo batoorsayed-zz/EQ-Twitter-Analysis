@@ -3,7 +3,7 @@ FYI this is a quick analysis done during 'bored' time over couple cups of tea. I
 
 Step 1 : Fire up your one and only RStudio.
 
-Step 2 : Load up them libraries under 'Prep Work', if any missing install. (You will definitaley not use all of 'em.)
+Step 2 : Load up them libraries under 'Prep Work', if any missing, install. (You will definitaley not use all of 'em.)
 
 Step 3 : setwd to your favorite directory.
 
@@ -20,6 +20,6 @@ Step 5 : Spice up your search queries as your heart wishes.
          
 Step 6 : write.cvs so you dont have to start all over again if R crashes.
 
-Step 7 : If you followed these steps correctly and loaded all the libraries, you re good to go. Everthing is commented. Enjoy the analysis!
+Step 7 : If you followed these steps correctly and loaded all the libraries, you're good to go. Everthing is commented. Enjoy the analysis!
 
 
